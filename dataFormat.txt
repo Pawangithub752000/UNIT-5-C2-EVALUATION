@@ -1,0 +1,45 @@
+{
+    "coord": {
+    "lon": 79.4469,
+    "lat": 29.3974
+    },
+    "weather": [
+    {
+    "id": 803,
+    "main": "Clouds",
+    "description": "broken clouds",
+    "icon": "04n"
+    }
+    ],
+    "base": "stations",
+    "main": {
+    "temp": 291.74,
+    "feels_like": 290.65,
+    "temp_min": 291.74,
+    "temp_max": 291.74,
+    "pressure": 1003,
+    "humidity": 38,
+    "sea_level": 1003,
+    "grnd_level": 792
+    },
+    "visibility": 10000,
+    "wind": {
+    "speed": 2.49,
+    "deg": 49,
+    "gust": 2.4
+    },
+    "clouds": {
+    "all": 55
+    },
+    "dt": 1651502228,
+    "sys": {
+    "country": "IN",
+    "sunrise": 1651449581,
+    "sunset": 1651497517
+    },
+    "timezone": 19800,
+    "id": 1262117,
+    "name": "Nainital",
+    "cod": 200
+    }
+}
